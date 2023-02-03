@@ -1,0 +1,4 @@
+﻿  Sort.c
+D:\zero\w\c\Sorts\Sorts\Sort.c(510,22): warning C4013: “time”未定义；假设外部返回 int
+D:\zero\w\c\Sorts\Sorts\Sort.c(522,15): warning C4013: “clock”未定义；假设外部返回 int
+  Sorts.vcxproj -> D:\zero\w\c\Sorts\x64\Debug\Sorts.exe
